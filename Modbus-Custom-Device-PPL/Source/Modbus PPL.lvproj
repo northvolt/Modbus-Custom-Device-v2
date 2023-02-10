@@ -43,7 +43,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{CDF6F47D-99A6-43A4-BD48-1CDD43904363}</Property>
-				<Property Name="Bld_version.build" Type="Int">8</Property>
+				<Property Name="Bld_version.build" Type="Int">9</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Modbus API.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/Windows/Modbus API.lvlibp</Property>
@@ -53,7 +53,7 @@
 				<Property Name="Destination[1].path" Type="Path">../builds/Windows</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{49908398-395C-4BB8-B2C0-269A042E0C02}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{744C71AD-A933-443D-8A05-527922220D7D}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Modbus Library.lvlib</Property>
@@ -147,7 +147,7 @@
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{823CDD02-342D-4B60-8AEF-CA16F276E36C}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/Linux_x64</Property>
-				<Property Name="Bld_version.build" Type="Int">2</Property>
+				<Property Name="Bld_version.build" Type="Int">3</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Modbus API.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">/NI_AB_TARGETNAME/Modbus API.lvlibp</Property>
@@ -158,7 +158,7 @@
 				<Property Name="Destination[1].path" Type="Path">/NI_AB_TARGETNAME</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{A462F722-0297-4DA0-BD0A-7704F443CBF9}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{80DA24B9-EF50-4C16-B5DD-77629D0B1462}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/Linux_x64/Modbus Library.lvlib</Property>
