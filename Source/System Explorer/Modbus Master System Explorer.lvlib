@@ -192,5 +192,12 @@
 			</Item>
 			<Item Name="ActionVIOnCompile.vi" Type="VI" URL="../SubVIs/ActionVIOnCompile.vi"/>
 		</Item>
+		<Item Name="Actions" Type="Folder">
+			<Item Name="Enable Disable.vi" Type="VI" URL="../Enable Disable.vi"/>
+		</Item>
+		<Item Name="Glyphs" Type="Folder">
+			<Item Name="Modbus Icon.png" Type="Document" URL="../Glyphs/Modbus Icon.png"/>
+			<Item Name="Disabled.png" Type="Document" URL="../Glyphs/Disabled.png"/>
+		</Item>
 	</Item>
 </Library>
