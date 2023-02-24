@@ -5,7 +5,7 @@
 		<eng>National Instruments::Modbus Master to Slave</eng>
 		<loc>National Instruments::Modbus Master to Slave</loc>
 	</AddMenu>
-	<Version>1.0.3</Version>
+	<Version>1.0.4.0</Version>
 	<Type>Inline HW Interface</Type>
 	<MaxOccurrence>255</MaxOccurrence>
 	<MainPageGUID>1199cc90-62ea-4be2-b123-96c31660e707</MainPageGUID>
